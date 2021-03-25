@@ -9,7 +9,7 @@ K-Means Clustering is an **Unsupervised Learning algorithm**, which groups the u
 1. It is a centroid-based algorithm, where each cluster is associated with a centroid.
 2. The algorithm takes the unlabeled dataset as input, divides the dataset into k-number of clusters, and repeats the process until it does not find the best clusters. The value of k should be predetermined in this algorithm.
 
-**The k-means clustering algorithm mainly performs two tasks:
+**The k-means clustering algorithm mainly performs two tasks:**
 
 * Determines the best value for K center points or centroids by an iterative process.
 * Assigns each data point to its closest k-center. Those data points which are near to the particular k-center, create a cluster.
